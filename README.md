@@ -2,7 +2,7 @@
 
 ### Hi there, this is jelly! 👋
 
-[![z2629365594@gmail.com](https://img.shields.io/static/v1?label=Mail&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:z2629365594@gmail.com)
+[![z2629365594@gmail.com](https://img.shields.io/static/v1?label=z2629365594@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:z2629365594@gmail.com)
 
 ❤️ PL, OS, DWeb, Cloud Native
 

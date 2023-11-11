@@ -1,12 +1,10 @@
-<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jellllly420&hide_border=true&show_icons=true&theme=transparent">
+### Hi there, this is nobody! 👋
 
-### Hi there, this is jelly! 👋
+Availiable via [![jelly.zhao.42@gmail.com](https://img.shields.io/static/v1?label=jelly.zhao.42@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:jelly.zhao.42@gmail.com)
 
-[![jelly.zhao.42@gmail.com](https://img.shields.io/static/v1?label=jelly.zhao.42@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:jelly.zhao.42@gmail.com)
+❤️ Nothing
 
-❤️ PL, OS, DWeb, Cloud Native
-
-👨‍🎓 Undergraduate student, Peking University
+👨‍🎓 Nowhere
 
 <details>
   <summary>PGP Public Key</summary>

@@ -1,6 +1,6 @@
 ### Hi there, this is nobody! 👋
 
-Availiable via [![jelly.zhao.42@gmail.com](https://img.shields.io/static/v1?label=jelly.zhao.42@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:jelly.zhao.42@gmail.com)
+Available via [![jelly.zhao.42@gmail.com](https://img.shields.io/static/v1?label=jelly.zhao.42@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:jelly.zhao.42@gmail.com)
 
 ❤️ Nothing
 
